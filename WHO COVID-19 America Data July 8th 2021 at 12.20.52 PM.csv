@@ -1,0 +1,57 @@
+﻿Name,WHO Region,Cases - cumulative total,"Cases - cumulative total per 100,000 population",Cases - newly reported in last 7 days,"Cases - newly reported in last 7 days per 100,000 population",Cases - newly reported in last 24 hours,Deaths - cumulative total,"Deaths - cumulative total per 100,000 population",Deaths - newly reported in last 7 days,"Deaths - newly reported in last 7 days per 100,000 population",Deaths - newly reported in last 24 hours,Transmission Classification
+United States of America,Americas,33392406,10088.26,74603,22.54,5614,600457,181.41,1368,0.41,51,Community transmission
+Brazil,Americas,18792511,8841.06,344109,161.89,22703,525112,247.04,11020,5.18,695,Community transmission
+Argentina,Americas,4552750,10073.4,129114,285.68,17277,96521,213.56,3379,7.48,617,Community transmission
+Colombia,Americas,4375861,8599.87,188667,370.79,25366,109466,215.13,4140,8.14,570,Community transmission
+Mexico,Americas,2541873,1971.47,34420,26.7,1805,233689,181.25,1081,0.84,67,Community transmission
+Peru,Americas,2066677,6268,17110,51.89,1564,193389,586.53,1226,3.72,159,Community transmission
+Chile,Americas,1574465,8236.29,20691,108.24,1857,33288,174.14,799,4.18,39,Community transmission
+Canada,Americas,1417639,3756.12,3505,9.29,670,26368,69.86,130,0.34,8,Community transmission
+Ecuador,Americas,463951,2629.65,8208,46.52,1302,21708,123.04,185,1.05,13,Community transmission
+Bolivia (Plurinational State of),Americas,446362,3823.88,10794,92.47,1394,16985,145.51,354,3.03,34,Community transmission
+Paraguay,Americas,429884,6027.08,10120,141.88,1141,13447,188.53,806,11.3,101,Community transmission
+Panama,Americas,408728,9472.77,7396,171.41,605,6583,152.57,54,1.25,9,Community transmission
+Costa Rica,Americas,374324,7348.16,10020,196.7,690,4726,92.77,78,1.53,8,Community transmission
+Uruguay,Americas,373286,10745.97,6371,183.41,577,5711,164.41,187,5.38,22,Community transmission
+Dominican Republic,Americas,330244,3044.31,5880,54.2,713,3866,35.64,51,0.47,9,Community transmission
+Guatemala,Americas,305319,1704.21,12645,70.58,2785,9548,53.29,401,2.24,50,Community transmission
+Venezuela (Bolivarian Republic of),Americas,278665,979.97,8011,28.17,1030,3209,11.29,125,0.44,19,Community transmission
+Honduras,Americas,269000,2715.91,8669,87.52,1142,7129,71.98,207,2.09,40,Community transmission
+Cuba,Americas,210913,1862.1,22890,202.09,3591,1387,12.25,117,1.03,15,Community transmission
+Puerto Rico,Americas,140406,4907.84,385,13.46,105,2552,89.2,5,0.17,0,Community transmission
+El Salvador,Americas,80235,1237.01,1469,22.65,445,2414,37.22,38,0.59,5,Community transmission
+Jamaica,Americas,50404,1702.17,324,10.94,15,1096,37.01,31,1.05,2,Community transmission
+Trinidad and Tobago,Americas,33555,2397.66,1212,86.6,127,899,64.24,77,5.5,7,Community transmission
+French Guiana,Americas,27996,9373.18,581,194.52,109,154,51.56,9,3.01,3,Community transmission
+Suriname,Americas,22465,3829.49,1105,188.36,85,548,93.41,36,6.14,3,Community transmission
+Guyana,Americas,20389,2592.2,498,63.31,11,478,60.77,12,1.53,0,Community transmission
+Haiti,Americas,19172,168.14,435,3.81,65,467,4.1,24,0.21,5,Community transmission
+Guadeloupe,Americas,17684,4419.63,145,36.24,0,270,67.48,3,0.75,0,Community transmission
+Belize,Americas,13391,3367.72,202,50.8,48,330,82.99,1,0.25,0,Community transmission
+Bahamas,Americas,12889,3277.61,303,77.05,0,251,63.83,5,1.27,0,Clusters of cases
+Martinique,Americas,12396,3303.27,110,29.31,0,98,26.11,0,0,0,Community transmission
+Curaçao,Americas,12349,7525.61,17,10.36,0,126,76.79,0,0,0,Community transmission
+Aruba,Americas,11144,10437.78,12,11.24,0,107,100.22,0,0,0,Community transmission
+Nicaragua,Americas,6819,102.94,215,3.25,215,192,2.9,1,0.02,1,Community transmission
+Saint Lucia,Americas,5326,2900.44,42,22.87,0,85,46.29,1,0.54,0,Community transmission
+Barbados,Americas,4091,1423.58,12,4.18,5,47,16.35,0,0,0,Community transmission
+United States Virgin Islands,Americas,3942,3774.96,92,88.1,26,30,28.73,0,0,0,Community transmission
+Sint Maarten,Americas,2627,6126.11,14,32.65,7,33,76.96,0,0,0,Community transmission
+Bermuda,Americas,2520,4046.7,6,9.63,0,33,52.99,0,0,0,Sporadic cases
+Turks and Caicos Islands,Americas,2425,6263.24,1,2.58,0,18,46.49,0,0,0,Clusters of cases
+Saint Martin,Americas,2420,6259.86,53,137.1,0,29,75.01,2,5.17,0,Community transmission
+Saint Vincent and the Grenadines,Americas,2240,2019.11,21,18.93,2,12,10.82,0,0,0,Community transmission
+Bonaire,Americas,1626,7774.32,8,38.25,2,17,81.28,0,0,0,Community transmission
+Antigua and Barbuda,Americas,1265,1291.75,2,2.04,1,42,42.89,0,0,0,Clusters of cases
+Saint Barthélemy,Americas,1046,10581.69,3,30.35,0,1,10.12,0,0,0,Clusters of cases
+British Virgin Islands,Americas,793,2622.61,495,1637.07,337,1,3.31,0,0,0,Clusters of cases
+Cayman Islands,Americas,614,934.27,0,0,0,2,3.04,0,0,0,Sporadic cases
+Saint Kitts and Nevis,Americas,515,968.19,76,142.88,23,3,5.64,0,0,0,Community transmission
+Dominica,Americas,197,273.65,4,5.56,3,0,0,0,0,0,Clusters of cases
+Grenada,Americas,162,143.97,0,0,0,1,0.89,0,0,0,Sporadic cases
+Anguilla,Americas,111,739.9,2,13.33,0,0,0,0,0,0,No cases
+Falkland Islands (Malvinas),Americas,60,1722.65,0,0,0,0,0,0,0,0,No cases
+Saint Pierre and Miquelon,Americas,26,448.66,0,0,0,0,0,0,0,0,Sporadic cases
+Montserrat,Americas,20,400.08,0,0,0,1,20,0,0,0,No cases
+Sint Eustatius,Americas,20,637.15,0,0,0,0,0,0,0,0,No cases
+Saba,Americas,7,362.13,0,0,0,0,0,0,0,0,No cases
